@@ -19,5 +19,5 @@ The final deliverable will include:
 - **Executive Summary:** Summarizing the findings and strategic insights.
 - **Detailed Analysis Sections:** Covering customer structure, segmentation, and key product performance.
 - **General Conclusion and Discussion:** Reflecting on the learnings from the dataset analysis.
-- <br/>
+<br/>
 This structured approach ensures a thorough examination of consumer behavior and product performance, catering to strategic business needs.
